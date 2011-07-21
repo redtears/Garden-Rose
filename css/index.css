@@ -1,0 +1,70 @@
+.original_table{
+}
+
+.td_nav_bar{
+	padding:0px 20px;
+	font-family: свт╡;
+	font-size: 18px;
+	font-weight: bold;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	/*cursor:pointer;*/
+}
+
+.td_copyright{
+	text-align:center;
+	font-family: arial;
+	font-size: 12px;	
+}
+
+.td_sub_page_title{
+	padding-left:50px;
+	padding-top:50px;
+	font-size:26px;
+	font-weight:bolt;
+	text-align:left;
+}
+
+.div_sub_menu{
+	position:absolute;
+	display:none;
+	left:450px;
+	top:120px;
+	background-color:#ffffff;
+	border:1px dashed gray;
+	z-index:1;
+	filter:alpha(opacity=50);
+	/* IE */ -moz-opacity:0.5;
+	/* Moz + FF */opacity:0.5;
+}
+
+.submenuitem{
+	border-bottom:1px dashed gray;
+}
+
+.submenutext{
+	font-size:14px;
+	font-family:arial;
+	color:black;
+	text-align:center;
+	vertical-align:middle;
+	padding:2px 3px;
+	cursor:pointer;
+}
+
+a:link {
+ text-decoration: none;
+}
+a:visited {
+ text-decoration: none;
+}
+a:hover {
+ text-decoration: underline;
+}
+a:active {
+ text-decoration: none;
+}
+
+
+
